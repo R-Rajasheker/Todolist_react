@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#b1{
+  margin-left: 10px;
+  border-radius: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  width: 100px;
+  background-color: rgb(60, 0, 255);
+  
+}
+#in1{
+  width: 250px;
+ 
+  color: blue;
+}
+
+.clss2{
+  text-align: center;
+  border: 1px solid;
+  margin-top: 100px;
+  height: 200px;
+  width: auto;
+  margin: 50px;
+  margin-left: 500px;
+  margin-right: 500px;
+  
+}
